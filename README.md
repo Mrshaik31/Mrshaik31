@@ -69,18 +69,11 @@ Hello! I’m **Shaik Farhan**, a third-year **Information Science & Engineering 
    - **Music App – Chordify (UI/UX)**  
 - 🏅 Earned **IBM Enterprise Design Thinking Practitioner Badge**  
 - 🌍 Exploring **AI, IoT, 6G, and Healthcare Tech**  
-- 🐾 Pet parent to a **brown male dog** 🐶  
 
 ---
 
 # 🌟 Fun Fact:  
 > I enjoy blending **design + engineering + AI** to create solutions that are **smart, simple, and impactful**.  
-
----
-
-# 🎨 Profile Banner:
-![Shaik Farhan](https://i.ibb.co/rdGN0rB/github-banner.png)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Mrshaik31&icon=0&color=0)](https://visitcount.itsvg.in)
